@@ -1,0 +1,9 @@
+TASK: create a single page website with modern layout that should show the information about the company TECH 
+
+Context:
+ - take all the information from the https://maps.app.goo.gl/1n4TJfhU1TWjdmS79
+ - this website should be accessed in all devices
+ - should be very lighter to load in phone
+ - create it using html, css and javascript
+ - keep all file in current folder itself.
+ - main file should be index.html will be used to host in github pages
